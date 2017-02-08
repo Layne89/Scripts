@@ -1,6 +1,6 @@
 #!/bin/bash
 #罗列指定目录下的所有重复文件，用于查找同名文件，从而去重
-#usage:FindHomonym [targetDirectory]
+#usage:FindHomonym.sh [targetDirectory]
 unset file_arr
 index=0
 
